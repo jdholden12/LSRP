@@ -67,9 +67,10 @@
             .lsrplogo{
                 padding-top: 60px;
             }
-            .card{
-                height: 16rem;
-            }
+            /*.card{*/
+            /*    height: 16rem;*/
+            /*    padding-right: 150px;*/
+            /*}*/
             .fa-check-square{
                 color: green;
             }
@@ -79,9 +80,9 @@
             .info-text{
                 color: white;
             }
-            .bottom{
-                padding-left: 550px;
-            }
+            /*.bottom{*/
+            /*    padding-left: 550px;*/
+            /*}*/
             .card-img-top h3 {
                 font-weight: bold;
             }
@@ -96,22 +97,22 @@
             </div>
         </div>
         <div class="container mt-5">
-            <div class="row">
-                <div class="card mr-5 ml-5 p-3 grapespring-card" style="width: 18rem;">
+            <div class="card-deck">
+                <div class="card col p-3" >
                     <div class="card-img-top text-center"><h3>GAME</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2>
                     </div>
                 </div>
-                <div class="card mr-5 p-3" style="width: 18rem;">
+                <div class="card p-3 col-4" >
                     <div class="card-img-top text-center"><h3>WEBSITE</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2>
                     </div>
                 </div>
-                <div class="card p-3" style="width: 18rem;">
+                <div class="card p-3 col-4"">
                     <div class="card-img-top text-center"><h3>FORUM</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
@@ -120,32 +121,32 @@
                 </div>
             </div>
         </div>
-        <div class="bottom container-fluid mt-5">
-            <div class="row">
-                <div class="card mr-5 ml-5 p-3 grapespring-card" style="width: 18rem;">
+        <div class="bottom container mt-5">
+            <div class="card-deck">
+                <div class="card col p-3">
                     <div class="card-img-top text-center text-bold"><h3>LSGOV</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2></div>
                 </div>
-                <div class="card mr-5 p-3" style="width: 18rem;">
+                <div class="card col p-3">
                     <div class="card-img-top text-center"><h3>TEAMSPEAK</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2>
                     </div>
                 </div>
-                <div class="card mr-5 p-3" style="width: 18rem;">
+                <div class="card col p-3" >
                     <div class="card-img-top text-center"><h3>SUPPORT PAGE</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2>
                     </div>
                 </div>
-                <div class="card p-3" style="width: 18rem;">
+                <div class="card col p-3">
                     <div class="card-img-top text-center"><h3>FACEINVADER</h3></div>
                     <div class="card-body">
-                        <h3 class="card-title text-center">Non-Operational</h3>
+                        <h4 class="card-title text-center">Non-Operational</h4>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-times-circle"></i></h2>
                     </div>
                 </div>
