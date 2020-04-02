@@ -105,14 +105,14 @@
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2>
                     </div>
                 </div>
-                <div class="card p-3 col-4" >
+                <div class="card p-3 col" >
                     <div class="card-img-top text-center"><h3>WEBSITE</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
                         <h2 class="card-text text-center" style="padding-top: 25px;"><i class="fas fa-check-square fa-m"></i></h2>
                     </div>
                 </div>
-                <div class="card p-3 col-4"">
+                <div class="card p-3 col">
                     <div class="card-img-top text-center"><h3>FORUM</h3></div>
                     <div class="card-body">
                         <h3 class="card-title text-center">Operational</h3>
